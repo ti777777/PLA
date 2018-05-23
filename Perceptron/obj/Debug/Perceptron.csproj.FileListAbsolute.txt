@@ -1,0 +1,10 @@
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Tsai\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
